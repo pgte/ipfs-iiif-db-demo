@@ -25,7 +25,7 @@ $ npm start
 
 Open [http://127.0.0.1:54321](http://127.0.0.1:54321).
 
-Et voilá!
+You should now have links to all 3 apps: Tracker, Mutator and Auto-Mutator.
 
 # License
 
