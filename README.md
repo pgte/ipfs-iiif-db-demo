@@ -2,6 +2,8 @@
 
 > IPFS IIIF Demo
 
+Source code for this is in the [examples folder](https://github.com/pgte/ipfs-iiif-db/tree/master/examples) of [ipfs-iiif-db](https://github.com/pgte/ipfs-iiif-db).
+
 # Install
 
 Clone using Git:
