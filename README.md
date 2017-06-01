@@ -4,6 +4,12 @@
 
 Source code for this is in the [examples folder](https://github.com/pgte/ipfs-iiif-db/tree/master/examples) of [ipfs-iiif-db](https://github.com/pgte/ipfs-iiif-db).
 
+# Use without installing it
+
+If you wish to access these demo apps without installing them locally, go to:
+
+http://pgte.github.io/ipfs-iiif-db-demo/public/
+
 # Install
 
 Clone using Git:
