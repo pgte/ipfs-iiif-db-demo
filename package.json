@@ -1,0 +1,12 @@
+{
+  "name": "simple-producer-consumer",
+  "version": "0.0.1",
+  "scripts": {
+    "serve": "http-server -c-1 -p 54321 public",
+    "start": "npm run serve"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
