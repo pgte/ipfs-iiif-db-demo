@@ -21,7 +21,7 @@ const $value = document.getElementById('value')
 const $addButton = document.getElementById('add')
 const $removeButton = document.getElementById('remove')
 
-const original = require('./samples/original')
+const original = 'https://iiif.lib.harvard.edu/manifests/drs:5981093' // require('./samples/original')
 const annotations = require('./samples/annotations')
 
 let db

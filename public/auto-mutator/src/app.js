@@ -19,7 +19,7 @@ const $allDisabledButtons = document.querySelectorAll('button:disabled')
 const $allDisabledInputs = document.querySelectorAll('input:disabled')
 const $value = document.getElementById('value')
 
-const original = require('./samples/original')
+const original = 'https://iiif.lib.harvard.edu/manifests/drs:5981093' //require('./samples/original')
 const annotations = require('./samples/annotations')
 
 let db
