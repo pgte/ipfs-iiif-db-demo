@@ -2,6 +2,44 @@
 
 > IPFS IIIF Demo
 
+## Apps
+
+### 1. Mutator
+
+* User can add or remove a random annotation from the annotation list (using the add and remove buttons).
+* Tracks changes to the annotation list and prints the latest
+* Lists the connected peers
+
+URLs:
+
+  * local: http://localhost:54321/mutator/public/index.html
+  * remote: https://pgte.github.io/ipfs-iiif-db-demo/public/mutator/public/index.html
+
+
+### 2. Tracker
+
+* Tracks changes to all annotation lists in the 'iiif' partition
+* Lists the connected peers
+
+URLs:
+
+  * local: http://localhost:54321/tracker/public/index.html
+  * remote: https://pgte.github.io/ipfs-iiif-db-demo/public/mutator/public/index.html
+
+### 3. Auto Mutator
+
+* Every 2 seconds, adds a random annotation from the annotation list.
+* Tracks changes to the annotation list and prints the latest
+* Lists the connected peers
+
+URLs:
+
+  * local: http://localhost:54321/auto-mutator/public/index.html
+  * remote: https://pgte.github.io/ipfs-iiif-db-demo/public/auto-mutator/public/index.html
+
+
+## Source code
+
 Source code for this is in the [examples folder](https://github.com/pgte/ipfs-iiif-db/tree/master/examples) of [ipfs-iiif-db](https://github.com/pgte/ipfs-iiif-db).
 
 # Use without installing it
